@@ -101,7 +101,7 @@ p{
 
 /* Testimonial Section */
 
-#testimonials #press{
+#testimonials{
     text-align: center;
     background-color: #ef8172;
     color: floralwhite;
@@ -114,6 +114,8 @@ p{
 }
 
 #press{
+    text-align: center;
+    background-color: #ef8172;
     padding-bottom: 3%;
 }
 
